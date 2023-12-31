@@ -6,7 +6,7 @@ Hello there! 👋 I'm Yousaf Shah, a passionate software developer who loves pro
 
 - 🔭 I’m currently working on Predictive Dialers
 - 🌱 I’m currently learning Golang.
-- - 📫 How to reach me: Message me on [LinkedIn ](https://www.linkedin.com/in/syed-yousaf-raza-shah/)
+- 📫 How to reach me: Message me on [LinkedIn ](https://www.linkedin.com/in/syed-yousaf-raza-shah/)
 
 Happy coding! 🖥️💻
 
